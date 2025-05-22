@@ -48,6 +48,8 @@ The dataset used in this project covers:
 
 [consumer_goods_analysis_sql_queries.pdf](https://github.com/akshaypimpale/SQL-Consumer_goods_analysis/blob/main/consumer_goods_analysis_sql_queries.pdf)
 
+[Download SQL_QUERIES.pdf](https://github.com/akshaypimpale/SQL-Consumer_goods_analysis/blob/main/consumer_goods_analysis_sql_queries.pdf)
+
 
 ---
 
