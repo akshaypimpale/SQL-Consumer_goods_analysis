@@ -44,12 +44,9 @@ The dataset used in this project covers:
 
 ## 📁 Repository Contents
 
-| File                   | Description                                                  |
-|------------------------|--------------------------------------------------------------|
-| `SQL_QUERIES.pdf`      | PDF document containing all SQL queries used in this project.|
-| `SQL_PROJECT.pptx`     | PowerPoint presentation summarizing findings and insights.   |
+[consumer_goods_analysis_sql.pptx](https://github.com/akshaypimpale/SQL-Consumer_goods_analysis/blob/main/CONSUMER_GOODS_SOLD_SQL.pptx)
 
-[Download SQL_QUERIES.pdf](https://github.com/your-username/your-repo-name/raw/main/SQL_QUERIES.pdf)
+[consumer_goods_analysis_sql_queries.pdf](https://github.com/akshaypimpale/SQL-Consumer_goods_analysis/blob/main/consumer_goods_analysis_sql_queries.pdf)
 
 
 ---
