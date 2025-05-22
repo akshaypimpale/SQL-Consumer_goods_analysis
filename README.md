@@ -49,6 +49,9 @@ The dataset used in this project covers:
 | `SQL_QUERIES.pdf`      | PDF document containing all SQL queries used in this project.|
 | `SQL_PROJECT.pptx`     | PowerPoint presentation summarizing findings and insights.   |
 
+[Download SQL_QUERIES.pdf](https://github.com/your-username/your-repo-name/raw/main/SQL_QUERIES.pdf)
+
+
 ---
 
 ## 🛠️ Tools & Technologies
